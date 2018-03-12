@@ -1,3 +1,10 @@
+
+---
+title: This is my post
+layout: post
+---
+
+
 #A Start on GitHub Pages
 
 First Header | Second Header
